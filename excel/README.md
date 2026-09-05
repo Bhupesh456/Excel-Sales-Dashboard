@@ -6,7 +6,7 @@ The workbook contains the complete analysis workflow, from data preparation and 
 
 ## Main File
 
-### `Sales_Dashboard.xlsx`
+### `Sales_Analysis.xlsx`
 
 This is the primary project file.
 
@@ -64,7 +64,7 @@ Users can interact with the dashboard using filters for:
 
 ## How to Use
 
-1. Download `Sales_Dashboard.xlsx`.
+1. Download `Sales_Analysis.xlsx`.
 2. Open the workbook using Microsoft Excel.
 3. Navigate through the relevant worksheets to review the data preparation, analysis, Pivot Tables, and dashboard.
 4. Use the available filters and slicers to interact with the dashboard.
