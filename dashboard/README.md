@@ -8,7 +8,7 @@ The dashboard provides an interactive overview of sales performance and business
 
 ### Dashboard Image
 
-![Sales Analysis Dashboard](dashboard.png)
+![sales analysis_dashboard](dashboard.png)
 
 ## Key Performance Indicators
 
